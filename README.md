@@ -1,3 +1,14 @@
+# Desafio 3 - Go Beyond - Corebiz
+Projeto desenvolvido para o Desafio 3 do programa Go Beyond - Corebiz
+
+Visite o projeto: https://desafio3-gobeyond-corebiz.vercel.app/
+
+## Tecnologias utilizadas
+    -React.js
+    -HTML
+    -CSS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
