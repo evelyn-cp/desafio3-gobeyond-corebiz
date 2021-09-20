@@ -27,7 +27,6 @@
     text-decoration: none;
     transition: transform .2s ease-in-out ;
     overflow:hidden;
-    animation: fadeInUp .6s;
   }
   
   @media (min-width:1024px) {
@@ -107,4 +106,5 @@
   .tab--active {
     background: #799893;
     color: white;
+    cursor: pointer;
   }
