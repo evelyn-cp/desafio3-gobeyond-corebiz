@@ -23,16 +23,16 @@
   
   .picture {
     margin-top:-70px;
-    width: 130px;
-    height: 130px;
+    width: 150px;
+    height: 150px;
     border: 5px solid #f2edea;
     border-radius: 50%;
   }
 
-  @media (min-width:320px) and (max-width:768px) {
+  @media (min-width:300px) and (max-width:539px) {
     .picture {
-    width: 90px;
-    height: 90px;
+    width: 130px;
+    height: 130px;
     }
   }
   
@@ -44,16 +44,16 @@
   
   .description {
     font-weight: 400;
-    font-size: 14px;
+    font-size: 15px;
     margin-top: 0;
   }
 
-  @media (min-width:320px) and (max-width:768px) {
+  @media (min-width:300px) and (max-width:539px) {
     .name {
-      font-size: 15px;
+      font-size: 20px;
     }
     
     .description {
-      font-size: 10px;
+      font-size: 13px;
     }
   }
