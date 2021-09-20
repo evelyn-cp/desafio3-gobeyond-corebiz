@@ -41,6 +41,10 @@
     margin-right: 30px;
   }
 
+  .link:hover {
+    transform: translateY(-6px);
+  }
+
   @media (min-width:300px) and (max-width:500px) {
     .link {
       margin-left: 10px;
